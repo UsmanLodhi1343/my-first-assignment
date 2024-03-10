@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Practice webpage</title>
+</head>
+<body>
+    <h1>My First Practice Webpage</h1>
+    <h2>html css and vscode</h2>
+    <h3>also connecting with github</h3>
+</body>
+</html>
